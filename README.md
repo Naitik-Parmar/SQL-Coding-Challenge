@@ -1,1 +1,1 @@
-# SQL-Coding-Challenge
+# Assignments
